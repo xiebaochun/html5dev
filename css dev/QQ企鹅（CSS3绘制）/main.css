@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color:#CCC;
+	}
+#QQhead{
+	position:absolute;
+	border:20px solid;
+width:500px;
+height:500px;
+border-left-color:#06F;
+border-right-color:#066;
+background-color:#fgg;
+border-radius:20px/33px;
+
+	}
+#QQeyes{
+	position:absolute;
+	     border:20px solid;
+	     width:40px;
+		 height:66px;
+		 border-left-color:#06F;
+         border-right-color:#066;
+	   	 border-radius:50% 50%;
+		
+	}

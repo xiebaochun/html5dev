@@ -1,0 +1,9 @@
+body{
+	 background-color:#aabbaa;
+}
+#gameCanvas{
+	background-color:rgba(0,0,0,1);
+}
+#arrow{
+	text-align: center;
+}
